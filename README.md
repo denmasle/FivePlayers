@@ -1,4 +1,4 @@
-# MERN Fury Phaser Game and CRUD Profile w JWT Auth and Redux
+# MERN Fury a Phaser Game with CRUD Profile with JWT Auth and React, Redux.
 
 # Phaser Tank Game with Membership Portal
 
