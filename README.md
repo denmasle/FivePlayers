@@ -135,4 +135,4 @@ npm run client
 > 3 : Only player 4 can control
 > 4 : Only player 5 can control
 
-> 5 : End game / Show a winner
+> 5 : End game / Show a winner!
